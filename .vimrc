@@ -1,9 +1,9 @@
 " 安装插件管理 vim-plug
 " unix
-" call plug#begin('~/.vim/plugged')
+call plug#begin('~/.vim/plugged')
 
 " windows
-call plug#begin("C:\Users\admin\Vimplugged")
+" call plug#begin("C:\Users\admin\Vimplugged")
 
 " 主题配色
 Plug 'sainnhe/sonokai'
